@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kk121:File-Loader:1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac749b66afe160092afb73e30c914896/jetified-File-Loader-1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d254c6086555482bcd4da633ddfd4971/transformed/jetified-File-Loader-1.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1881533ebae93caf56e66670acb26eaf/transformed/jetified-File-Loader-1.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac749b66afe160092afb73e30c914896/jetified-File-Loader-1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac749b66afe160092afb73e30c914896/jetified-File-Loader-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac749b66afe160092afb73e30c914896/jetified-File-Loader-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d254c6086555482bcd4da633ddfd4971/transformed/jetified-File-Loader-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d254c6086555482bcd4da633ddfd4971/transformed/jetified-File-Loader-1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d254c6086555482bcd4da633ddfd4971/transformed/jetified-File-Loader-1.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1881533ebae93caf56e66670acb26eaf/transformed/jetified-File-Loader-1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1881533ebae93caf56e66670acb26eaf/transformed/jetified-File-Loader-1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1881533ebae93caf56e66670acb26eaf/transformed/jetified-File-Loader-1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kk121/File-Loader/1.2/fca4c570d5230952baa4c82aee52419c3b346a4b/File-Loader-1.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kk121/File-Loader/1.2/191f25fb1fef80127cad495e30bd720707037ff7/File-Loader-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
